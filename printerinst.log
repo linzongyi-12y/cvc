@@ -1,0 +1,59 @@
+VNC(R) Printer Installer Enterprise Edition E4.6.3 (r66752) 64-bit (x64)
+unicode
+Built on Aug 18 2011 14:36:58
+Copyright (C) 2002-2011 RealVNC Ltd.
+VNC is a registered trademark of RealVNC Ltd. in the U.S. and in other
+countries.
+See http://www.realvnc.com for information on VNC.
+For third party acknowledgements see:
+http://www.realvnc.com/products/enterprise/4.6/acknowledgements.html
+
+Tue Sep 17 14:58:21 2019
+ DynamicFn:   found 'ProcessIdToSessionId' in 'kernel32.dll'
+ DynamicFn:   found 'WTSGetActiveConsoleSessionId' in 'kernel32.dll'
+ PrinterDriv: installVNCPrinter()
+ PrinterDriv: checkVNCPrinter()
+ Printer:     Printer Driver (VNC Printer (PS)) is not installed
+ PrinterDriv: checkOldVNCPrinter()
+ Printer:     Printer Driver (VNC Printer) is not installed
+ PrinterDriv: uninstallVNCPrinter()
+ PrinterDriv: deleteVNCPrinters()
+ PrinterDriv: removePrinterDriver(VNC Printer (PS))
+ Printer:     Printer Driver (VNC Printer (PS)) is not installed
+ PrinterDriv: removePrinterDriver(VNC Printer (UD))
+ Printer:     Printer Driver (VNC Printer (UD)) is not installed
+ PrinterDriv: removePrinterDriver(VNC Printer)
+ Printer:     Printer Driver (VNC Printer) is not installed
+ PrinterDriv: removePrinterPort()
+ PrinterDriv: removePortMonitor()
+ PrinterDriv: addPortMonitor()
+ PrinterDriv: copyFile(VNCpm.dll,C:\windows\system32\VNCpm.dll)
+ Printer:     Port Monitor (MONVNC) is installed
+ PrinterDriv: addPrinterPort()
+ DynamicFn:   found 'XcvDataW' in 'winspool.drv'
+ Printer:     Printer Port (VNC) is installed
+ PrinterDriv: copyPrinterFiles()
+ PrinterDriv: copyFile(VNCPrint.gpd,C:\windows\system32\spool\DRIVERS\x64\VNCPrint.gpd)
+ PrinterDriv: copyFile(VNCui.dll,C:\windows\system32\spool\DRIVERS\x64\VNCui.dll)
+ PrinterDriv: copyFile(VNC.ini,C:\windows\system32\spool\DRIVERS\x64\VNC.ini)
+ PrinterDriv: copyFile(VNCPrint.ppd,C:\windows\system32\spool\DRIVERS\x64\VNCPrint.ppd)
+ PrinterDriv: copyFile(VNC.lng,C:\windows\system32\spool\DRIVERS\x64\VNC.lng)
+ PrinterDriv: installSystemDriver()
+ PrinterDriv: installSystemDriver()
+ PrinterDriv: addPostscriptPrinterDriver
+ PrinterDriv: addUniDrvPrinterDriver
+ PrinterDriv: cleanupDriverDirectory()
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\VNCPrint.ppd)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\VNCPrint.gpd)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\VNCui.dll)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\VNC.ini)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\VNC.lng)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\PSCRIPT5.Dll)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\PS5UI.DLL)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\PSCRIPT.HLP)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\PSCRIPT.NTF)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\UNIDRV.Dll)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\UNIDRVUI.DLL)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\UNIDRV.HLP)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\UNIRES.DLL)
+ PrinterDriv: deleteFile(C:\windows\system32\spool\DRIVERS\x64\STDNAMES.GPD)
